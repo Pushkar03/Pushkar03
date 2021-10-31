@@ -36,6 +36,8 @@
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Pushkar03&theme=radical" />
+</p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pushkar03" alt="Pushkar03"/>  
 </p>
 <br>
 
