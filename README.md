@@ -24,7 +24,7 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pushkar03&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="shray-jayn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pushkar03&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="Pushkar03" />
 </p>
 
 <br>
